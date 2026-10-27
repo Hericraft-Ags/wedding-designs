@@ -3,7 +3,7 @@
     <section class="hero-glow-container text-center" style="padding: 6rem 0; overflow: hidden; position: relative;">
         <div class="container" style="position: relative; z-index: 2;">
             
-            <div data-aos="fade-down" class="badge badge-conocer" style="font-size: 1.1rem; padding: 0.6rem 2rem; margin-bottom: 2rem; display: inline-block; border: 1px solid rgba(164, 198, 57, 0.3);">
+            <div data-aos="fade-down" class="badge badge-conocer" style="font-size: 1.1rem; padding: 0.6rem 2rem; margin-bottom: 2rem; display: inline-block; border: 1px solid rgba(198, 127, 57, 0.85);">
                 <i class="fas fa-certificate" style="margin-right: 8px;"></i> Badge de curso demo
             </div>
             
@@ -343,7 +343,7 @@
                 </div>
                 
                 <h2 style="font-size: 2.5rem; color: var(--color-blue-dark); margin-bottom: 1.5rem;">
-                    Experiencia virtual
+                    Video tutorial
                 </h2>
                 
                 <p style="font-size: 1.25rem; color: var(--color-text-main); max-width: 800px; margin: 0 auto 2.5rem; line-height: 1.8;">
@@ -351,7 +351,7 @@
                 </p>
                 
                 <a href="#" onclick="event.preventDefault(); window.location.href=atob('aHR0cHM6Ly9tb29kbGUudGVjbm9vZmljaW9zLmNvbQ==');" class="btn-primary btn-glow-pulse" style="font-size: 1.2rem; padding: 1.2rem 2.5rem; display: inline-flex; align-items: center; font-weight: 700;">
-                    <i class="fas fa-play-circle" style="margin-right: 10px; font-size: 1.5rem;"></i> Iniciar práctica interactiva
+                    <i class="fas fa-play-circle" style="margin-right: 10px; font-size: 1.5rem;"></i> Ir al video
                 </a>
             </div>
         </div>

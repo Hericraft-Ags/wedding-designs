@@ -4,7 +4,7 @@
         <div class="grid grid-cols-[repeat(auto-fit,minmax(250px,1fr))] gap-20 mb-12">
             <!-- Columna 1 -->
             <div>
-                <h3 class="footer-heading">Sobre [Demo]</h3>
+                <h3 class="footer-heading">Sobre Wedding Design</h3>
                 <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6;">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, ducimus! Deleniti vero nulla recusandae facilis laudantium consequatur, voluptates necessitatibus commodi. Maxime, eligendi fuga voluptas enim omnis perferendis odio tenetur sunt?
                 </p>
@@ -16,8 +16,6 @@
                 <ul class="footer-links">
                     <li><router-link to="/">Inicio</router-link></li>
                     <li><router-link to="/courses">Catálogo de Cursos</router-link></li>
-                    <li><router-link to="/methodology">Nuestra Metodología</router-link></li>
-                    <li><a href="#" onclick="event.preventDefault(); window.open(atob('aHR0cHM6Ly9tb29kbGUudGVjbm9vZmljaW9zLmNvbQ=='), '_blank');">Aula Virtual</a></li>
                 </ul>
             </div>
             
